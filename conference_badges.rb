@@ -5,6 +5,6 @@ def badge_maker(name)
 end
 
 def badge_maker(attendees)
-  attendees.each do |name| 
+  attendees.each do |attendees| 
     ""
   
