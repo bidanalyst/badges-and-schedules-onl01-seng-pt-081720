@@ -5,4 +5,6 @@ def badge_maker(name)
 end
 
 def badge_maker(name)
+  attendees.each do |name| 
+    ""
   
