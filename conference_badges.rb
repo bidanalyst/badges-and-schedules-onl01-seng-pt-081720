@@ -6,5 +6,6 @@ end
 
 def badge_maker(attendees)
   attendees.each do |attendees| 
-    ""
-  
+    
+  end
+end
